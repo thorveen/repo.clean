@@ -3,13 +3,16 @@
     "path": "~/Dropbox/ WORK/teaching/R 2021 Loyola/repo.clean/3.analysis.R",
     "project_path": "3.analysis.R",
     "type": "r_source",
-    "hash": "429259579",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1610561311186.0,
     "source_on_save": false,
     "relative_order": 3,
-    "properties": {},
+    "properties": {
+        "cursorPosition": "6,32",
+        "scrollLine": "0"
+    },
     "folds": "",
     "lastKnownWriteTime": 1610518574,
     "encoding": "UTF-8",
