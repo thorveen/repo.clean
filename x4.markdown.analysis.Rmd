@@ -1,5 +1,5 @@
 ---
-title: "markdown.example.harder"
+title: "markdown.analysis"
 author: "Thor Veen"
 date: "13/01/2021"
 output: html_document

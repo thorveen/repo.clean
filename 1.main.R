@@ -19,7 +19,8 @@ R.version.string
 # === notes ====================================================================
 
 # various comments
-# • 
+# • numbering if files and folder is done to group based on same file type 
+#   (folders, scripts and markdown files together in same sequence)
 # •
 # •
 # 
@@ -50,10 +51,10 @@ wk.dir <- getwd() # location of thee working directory
 # === libraries ================================================================
 
 # install libraries needed for the project
-install.packages("name.of.package")
+#install.packages("name.of.package")
 
 # load the libraries needed for the project to run 
-library(name.of.package) #....
+#library(name.of.package) #....
 
 # === folder management ========================================================
 
@@ -89,6 +90,6 @@ p.fig <- paste(wk.dir, "/", folder.names[4], "/", sep = "")
 ## to run the whole project at once especially when computationally intensive
 
 # run scripts needed to make other scripts files work (e.g. functions.R)
-source("your.code.R")
+#source("your.code.R")
 
 #___ end _______________________________________________________________________
